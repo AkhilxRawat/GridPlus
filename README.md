@@ -1,6 +1,6 @@
 # GridPlus
 
-[Live Demo](https://d17yvdk2uely6c.cloudfront.net/meters)
+[Live Demo](https://gridplus.onrender.com/meters)
 
 
 ---
