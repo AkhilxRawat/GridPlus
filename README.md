@@ -203,7 +203,6 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Contact
 
--   [GitHub](https://github.com/git-raghav)
--   [Twitter](https://x.com/raghavsayshii/)
--   [Instagram](https://www.instagram.com/raghavsayshii/)
--   [LinkedIn](https://www.linkedin.com/in/raghav-agarwal-5a7702293/)
+-   [GitHub](https://github.com/AkhilxRawat)
+-   [Twitter](https://x.com/alpharoot04)
+-   [LinkedIn](https://www.linkedin.com/in/akhil-singh-rawat-8526a5251/)
